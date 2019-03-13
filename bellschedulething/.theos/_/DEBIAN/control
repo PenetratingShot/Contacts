@@ -1,0 +1,10 @@
+Package: com.404meemr.bellschedulething
+Name: BellScheduleThing
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 404meemr
+Author: 404meemr
+Section: Tweaks
+Version: 0.0.1-18+debug
+Installed-Size: 104

@@ -1,0 +1,9 @@
+Package: com.404meemr.bellschedulething
+Name: BellScheduleThing
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Partial dark mode for the DHS Bell Schedule app
+Maintainer: 404meemr
+Author: 404meemr
+Section: Tweaks
